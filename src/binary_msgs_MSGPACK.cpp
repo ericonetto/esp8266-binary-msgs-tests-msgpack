@@ -3,9 +3,9 @@
 #include <msgpck.h>
 
 
-#define SSID "yellow"
-#define SSID_PASSWORD "!yellow2016"
-#define SERVER_IP_ADDRESS "192.168.0.60"
+#define SSID ""
+#define SSID_PASSWORD ""
+#define SERVER_IP_ADDRESS ""
 
 // MyData contains important data.
 struct MyData {
